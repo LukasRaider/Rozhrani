@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\bin\Debug\net6.0\Rozhrani.exe
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\bin\Debug\net6.0\Rozhrani.deps.json
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\bin\Debug\net6.0\Rozhrani.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\bin\Debug\net6.0\Rozhrani.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\bin\Debug\net6.0\Rozhrani.pdb
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\Rozhrani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\Rozhrani.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\Rozhrani.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\Rozhrani.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\Rozhrani.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\refint\Rozhrani.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\Rozhrani.pdb
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\Rozhrani.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Ukol\Rozhrani\obj\Debug\net6.0\ref\Rozhrani.dll
